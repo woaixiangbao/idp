@@ -103,10 +103,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="212" column="53" selection-start="9248" selection-end="9248" vertical-scroll-proportion="0.3492647">
+            <state line="212" column="53" selection-start="9248" selection-end="9248" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="164" column="9" selection-start="1981" selection-end="1981" vertical-scroll-proportion="0.8854041">
               <folding />
             </state>
           </provider>
@@ -487,16 +496,16 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/html/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="164" column="13" selection-start="1982" selection-end="1982" vertical-scroll-proportion="0.8854041">
+        <state line="212" column="53" selection-start="9248" selection-end="9248" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/css/style.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="212" column="53" selection-start="9248" selection-end="9248" vertical-scroll-proportion="0.3492647">
+        <state line="164" column="9" selection-start="1981" selection-end="1981" vertical-scroll-proportion="0.8854041">
           <folding />
         </state>
       </provider>
